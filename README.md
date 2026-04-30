@@ -16,3 +16,9 @@ The segmentation of customers provides valuable insights that can support data-d
 
 ## Conclusion
 By applying clustering techniques, the project helps transform raw customer data into actionable insights, enabling more effective and targeted business strategies.
+
+
+
+work
+
+first we need mall customer data -> data pre processing -> data analysis -> optimum number of clusters -> 
